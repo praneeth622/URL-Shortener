@@ -32,6 +32,8 @@ async function fetchShortenUrl(){
         const shorturl = document.getElementById("shorturl");
         shorturl.href = surl;
         document.getElementById("div").style.display = "block";
+        const display = document.getElementById("url"); 
+        display.innerText = surl; 
         
 
 
