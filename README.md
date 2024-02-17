@@ -21,7 +21,7 @@ Welcome to the URL Shortener project! This is a simple tool to shorten long URLs
 
 ## Image
 
-![Extension Logo](Url_shorter/image.png)
+![Extension Logo](/Url_shorter/image)
 
 ## Development
 
